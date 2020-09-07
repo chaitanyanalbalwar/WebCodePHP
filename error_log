@@ -1,0 +1,4 @@
+[24-Aug-2020 13:14:00 UTC] PHP Fatal error:  Cannot redeclare Home::cancellation_and_refund() in /home/edigitoi/public_html/menukart.in/application/controllers/Home.php on line 52
+[24-Aug-2020 13:14:09 UTC] PHP Fatal error:  Cannot redeclare Home::cancellation_and_refund() in /home/edigitoi/public_html/menukart.in/application/controllers/Home.php on line 52
+[24-Aug-2020 13:16:02 UTC] PHP Fatal error:  Cannot redeclare Home::cancellation_and_refund() in /home/edigitoi/public_html/menukart.in/application/controllers/Home.php on line 52
+[06-Sep-2020 04:32:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/edigitoi/public_html/menukart.in/application/php-graph-sdk-5.x/src/Facebook/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/edigitoi/public_html/menukart.in/application/libraries/Facebook.php on line 23
